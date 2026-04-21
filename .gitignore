@@ -1,0 +1,17 @@
+# Data files
+data/videos/
+data/frames/
+data/optical_flow/
+data/test_frames/
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
