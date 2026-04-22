@@ -1,9 +1,7 @@
 # Data files
-data/videos/
-data/frames/
-data/optical_flow/
 data/test_frames/
 *.zip
+asl_frames.zip
 
 # Python
 __pycache__/
